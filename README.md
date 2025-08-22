@@ -2,8 +2,6 @@
 
 High contrast and minimalistic theme with warm golden syntax highlighting.
 
-## Screenshots
-
 ![Example](images/example.png)
 
 ## Feedback
