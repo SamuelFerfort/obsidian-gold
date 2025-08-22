@@ -1,0 +1,36 @@
+{
+  "name": "obsidian-gold-theme",
+  "publisher": "samux",
+  "displayName": "Obsidian Gold",
+  "description": "A high contrast minimalistic pitch-black theme with warm golden syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "minimalistic",
+    "high contrast",
+    "theme",
+    "dark",
+    "gold",
+    "minimal",
+    "black"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelferfort/obsidian-gold-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obsidian-gold-theme.json"
+      }
+    ]
+  }
+}
